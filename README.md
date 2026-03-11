@@ -18,8 +18,8 @@ python scanner.py
 
 ## Example Scan
 
-![Scan Example](screenshots/scan_example.png)
+![Scan Example](scan_example.png)
 
 ## Invalid Host Handling
 
-![Invalid Host](screenshots/invalid_host.png)
+![Invalid Host](invalid_host.png)
