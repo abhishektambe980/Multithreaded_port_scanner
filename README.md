@@ -14,7 +14,7 @@ Socket Programming
 Threading
 
 ## Usage
-python scanner.py
+python fast_scanner.py
 
 ## Example Scan
 
