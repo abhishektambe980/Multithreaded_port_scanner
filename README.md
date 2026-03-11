@@ -1,6 +1,7 @@
 # Multithreaded Port Scanner
 
 A Python-based TCP port scanner that uses multithreading to scan ports quickly.
+This tool scans a target host for open TCP ports using multithreading for faster scanning performance.
 
 ## Features
 - Multithreaded scanning
