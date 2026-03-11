@@ -9,9 +9,15 @@ A Python-based TCP port scanner that uses multithreading to scan ports quickly.
 - Detect open ports
 
 ## Technologies
-Python
-Socket Programming
-Threading
+- Python
+- Socket Programming
+- Multithreading
+
+## Installation
+
+git clone https://github.com/abhishektambe980/Multithreaded_port_scanner.git
+
+cd Multithreaded_port_scanner
 
 ## Usage
 python fast_scanner.py
